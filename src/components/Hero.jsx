@@ -1,6 +1,8 @@
 import { HERO_CONTENT } from "../constants";
 import profilePic from "../assets/myProfile.png";
 import { motion } from "framer-motion";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
 
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
@@ -27,7 +29,7 @@ const Hero = () => {
             animate="visible"
             className="text-4xl md:text-5xl font-bold leading-tight tracking-tight text-white"
           >
-           Ayush Jagwan
+            Ayush Jagwan
           </motion.h1>
 
           <motion.h2
@@ -47,6 +49,18 @@ const Hero = () => {
           >
             {HERO_CONTENT}
           </motion.p>
+
+          <div className="mt-6">
+            <a
+              href="https://drive.google.com/file/d/1nsUZaYHxaDGNuFRVl9rYyPlaQvtdNt2b/view?usp=drivesdk"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 bg-gradient-to-r from-pink-400 via-slate-500 to-purple-500 bg-clip-text text-xl md:text-2xl font-semibold text-transparent hover:underline"
+            >
+              Resume
+              <FontAwesomeIcon  icon={faArrowUpRightFromSquare} className="w-5 h-5 text-white" />
+            </a>
+          </div>
         </div>
 
         {/* Right Side (Image) */}

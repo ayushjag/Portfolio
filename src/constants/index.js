@@ -61,6 +61,7 @@ export const PROJECTS = [
     description:
       "My first serious personal portfolio project, created as part of the Studi Independen Infinite Learning program. The website showcases my skills, projects, and contact information.",
     technologies: ["HTML", "CSS", "JavaScript", "ReactJS", "Tailwind"],
+    link:"https://portfolio-ayush-jagwans-projects.vercel.app/"
   },
 ];
 
