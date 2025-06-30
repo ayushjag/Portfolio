@@ -52,7 +52,7 @@ const Hero = () => {
 
           <div className="mt-6">
             <a
-              href="https://drive.google.com/file/d/1nsUZaYHxaDGNuFRVl9rYyPlaQvtdNt2b/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/127oAuSVa9dN-gq-ULL2E6LokTFMPIjX5/view"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-gradient-to-r from-pink-400 via-slate-500 to-purple-500 bg-clip-text text-xl md:text-2xl font-semibold text-transparent hover:underline"
