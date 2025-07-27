@@ -13,7 +13,7 @@ As a motivated learner, I’m committed to continually improving and staying up-
 
 export const EXPERIENCES = [
   {
-    year: "Jan 2025 - Feb 2025",
+    year: "Apr 2025 - Jun 2025",
     role: "Full Stack Developer Intern",
     company: "ShulaTech Solution",
     description: `During my internship at Shula Tech Solutions, I had the opportunity to work on real-world projects that helped enhance my skills in full-stack development. I was involved in a variety of task.I worked on the front-end and back-end of web applications, utilizing technologies like React.js, Node.js, and Express to build user-friendly and scalable systems.`,
