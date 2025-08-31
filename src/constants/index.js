@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
 
 export const HERO_CONTENT = `Hello! I’m a final-semester student with a strong passion for web development. I’ve gained hands-on experience in technologies such as React.js, Express, Node.js, MongoDB. My goal is to become a skilled full-stack developer, capable of building dynamic, user-friendly web applications. As I approach the completion of my degree, I’m excited to apply my knowledge in both front-end and back-end development to create efficient solutions and contribute to projects that push technological innovation and enhance user experiences.`;
 
