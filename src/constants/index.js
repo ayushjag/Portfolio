@@ -31,6 +31,14 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+    {
+    title: "VeganFood – Fresh & Organic Fruits Delivery App",
+    image: project5,
+    description:
+      "Developed a full-stack Fruits Delivery platform for organic fruits using the MERN stack. The platform allows users to explore, search, and purchase sustainably sourced fruits with a focus on health and eco-friendliness. Integrated modern UI, secure backend, and efficient product management for a seamless shopping experience.",
+    technologies: ["React", "Express", "Node", "MongoDB","Cloudinary"],
+    link: "https://veganfruits-ayush.vercel.app/",
+  },
   {
     title: "Doctor Appointment Booking System",
     image: project1,
