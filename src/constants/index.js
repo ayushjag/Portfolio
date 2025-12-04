@@ -28,6 +28,24 @@ export const EXPERIENCES = [
       "MongoDB",
     ],
   },
+{
+  year: "Sep 2025 - Present",
+  role: "Full Stack Developer",
+  company: "Nextzem Technologies",
+  description: `At Nextzem Technologies, I work as a Full Stack Developer, contributing to both frontend and backend development across multiple live projects. My responsibilities include building responsive and high-performance user interfaces with Next.js and React, integrating REST APIs, optimizing application workflows, and ensuring smooth end-to-end functionality. I collaborate closely with the design and backend teams, write clean and maintainable code, and focus on delivering scalable features on time. I also work with animations, state management, and backend services using Node.js, Express, and MongoDB to create robust, production-ready applications.`,
+  technologies: [
+    "JavaScript",
+    "Next.js",
+    "React",
+    "Gsap",
+    "framer",
+    "Typescript",
+    "Express",
+    "Node",
+    "MongoDB",
+  ],
+},
+
 
 ];
 
