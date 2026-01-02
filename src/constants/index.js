@@ -4,13 +4,13 @@ import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
 
-export const HERO_CONTENT = `Hello! I’m a final-semester student with a strong passion for web development. I’ve gained hands-on experience in technologies such as React.js, Express, Node.js, MongoDB. My goal is to become a skilled full-stack developer, capable of building dynamic, user-friendly web applications. As I approach the completion of my degree, I’m excited to apply my knowledge in both front-end and back-end development to create efficient solutions and contribute to projects that push technological innovation and enhance user experiences.`;
+export const HERO_CONTENT = `I’m a Full-Stack Developer with hands-on experience building scalable, high-performance web applications. I specialize in Next.js, React.js, Node.js, Express, and MongoDB, creating modern user interfaces with efficient, secure back-end systems. I’m passionate about clean code, performance optimization, and delivering seamless user experiences using cutting-edge web technologies.`;
 
-export const ABOUT_TEXT = `Hi, I’m Ayush Jagwan, a passionate and driven final-year Computer Science and Engineering student. I specialize in full-stack web development, with a focus on technologies like React.js, Node.js, Express, MongoDB. Throughout my academic journey, I have worked on diverse projects, including a music streaming app, doctor appointment systems, and Ecommerce app.
+export const ABOUT_TEXT = `Hi, I’m Ayush Jagwan, a passionate Full-Stack Web Developer specializing in Next.js, React.js, Node.js, Express, and MongoDB. I’ve built multiple real-world projects, including a music streaming application, doctor appointment system, e-commerce platform, and a food blog website.
 
-I have hands-on experience building both the front-end and back-end of web applications, ensuring seamless user experiences while maintaining strong, scalable backends. My current focus is to enhance my skills in full-stack development, and I’m always looking for new ways to innovate and create impactful digital solutions.
+I have hands-on experience developing end-to-end web applications—from responsive, high-performance front-end interfaces to secure, scalable back-end architectures. I focus on clean, maintainable code, performance optimization, and seamless user experiences.
 
-As a motivated learner, I’m committed to continually improving and staying up-to-date with the latest trends in web development. If you’re looking for someone with a passion for coding and a knack for problem-solving, feel free to connect with me!`;
+I continuously upskill and stay aligned with modern web development practices. I enjoy solving complex problems, building impactful digital products, and collaborating on meaningful projects.`;
 
 export const EXPERIENCES = [
   {
@@ -55,7 +55,7 @@ export const PROJECTS = [
     image: project5,
     description:
       "Developed a full-stack Fruits Delivery platform for organic fruits using the MERN stack. The platform allows users to explore, search, and purchase sustainably sourced fruits with a focus on health and eco-friendliness. Integrated modern UI, secure backend, and efficient product management for a seamless shopping experience.",
-    technologies: ["React", "Express", "Node", "MongoDB","Cloudinary"],
+    technologies: ["Next.js", "Express", "Node", "MongoDB","Cloudinary"],
     link: "https://veganfruits-ayush.vercel.app/",
   },
   {
@@ -63,7 +63,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "The Doctor Appointment System is a simple and intuitive app designed to make booking appointments with doctors quick and easy. Whether you're a patient or a doctor, the system allows users to schedule appointments, view available time slots, and manage appointments with just a few clicks.",
-    technologies: ["React", "Node", "Express", "MongoDB,","Cloudinary", "Tailwind"],
+    technologies: ["Next.js", "Node", "Express", "MongoDB,","Cloudinary", "Tailwind"],
     link: "https://ayush-doctor-appointment.vercel.app/",
   },
   {
@@ -71,7 +71,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "The eCommerce App is a fully functional online shopping platform designed to provide a seamless shopping experience for users. From browsing products to completing transactions, it offers everything a shopper needs in a sleek and user-friendly interface.",
-    technologies: ["React", "Express", "Node", "MongoDB","Cloudinary", "Tailwind"],
+    technologies: ["Next.js", "Express", "Node", "MongoDB","Cloudinary", "Tailwind"],
     link: "https://ayushjagwan-ecommerce.vercel.app/",
   },
   {
