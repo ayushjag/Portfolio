@@ -3,7 +3,7 @@ import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
-import project6 from "../assets/projects/project-6.jpg";
+import project6 from "../assets/projects/project-6.png";
 
 export const HERO_CONTENT = `I’m a Full-Stack Developer with hands-on experience building scalable, high-performance web applications. I specialize in Next.js, React.js, Node.js, Express, and MongoDB, creating modern user interfaces with efficient, secure back-end systems. I’m passionate about clean code, performance optimization, and delivering seamless user experiences using cutting-edge web technologies.`;
 
