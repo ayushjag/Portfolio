@@ -4,6 +4,7 @@ import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
 import project6 from "../assets/projects/project-6.png";
+import project8 from "../assets/projects/project-8.png";
 
 export const HERO_CONTENT = `I’m a Full-Stack Developer with hands-on experience building scalable, high-performance web applications. I specialize in Next.js, React.js, Node.js, Express, and MongoDB, creating modern user interfaces with efficient, secure back-end systems. I’m passionate about clean code, performance optimization, and delivering seamless user experiences using cutting-edge web technologies.`;
 
@@ -51,6 +52,15 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+  title: "Pixel – Modern SaaS Landing Page",
+  image: project8,
+  description:
+    "A modern SaaS landing page built with Next.js 15, TypeScript, and Tailwind CSS featuring responsive design and clean UI components. The project includes testimonials with external image integration, an about page with custom SVG illustrations, and follows modern web development best practices. Built with a component-based architecture using Lucide React icons and optimized for performance with Next.js Image optimization. A perfect foundation for SaaS products requiring professional presentation and a scalable codebase.",
+  technologies: ["Next.js 15", "TypeScript", "Tailwind CSS", "Lucide React"],
+  link: "https://pixel-ochre.vercel.app/",
+},
+
   {
   title: "ParkEase – Smart Car Parking Booking Platform",
   image: project6,
