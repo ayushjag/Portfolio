@@ -5,6 +5,8 @@ import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/project-5.jpg";
 import project6 from "../assets/projects/project-6.png";
 import project8 from "../assets/projects/project-8.png";
+import project9 from "../assets/projects/project-9.png";
+
 
 export const HERO_CONTENT = `I’m a Full-Stack Developer with hands-on experience building scalable, high-performance web applications. I specialize in Next.js, React.js, Node.js, Express, and MongoDB, creating modern user interfaces with efficient, secure back-end systems. I’m passionate about clean code, performance optimization, and delivering seamless user experiences using cutting-edge web technologies.`;
 
@@ -52,6 +54,15 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+title: "Cheney Family Dental Website",
+image: project9,
+description:
+"A modern and responsive dental clinic website built with Next.js and Tailwind CSS. Features service showcases, patient testimonials, gallery, appointment booking, interactive contact section, and a professional design focused on patient trust and user experience.",
+technologies: ["Next.js", "TypeScript", "Tailwind CSS"],
+link: "https://your-smile-companion.vercel.app/",
+},
+
   {
   title: "Pixel – Modern SaaS Landing Page",
   image: project8,
