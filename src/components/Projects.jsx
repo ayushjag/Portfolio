@@ -42,8 +42,14 @@ const Projects = () => {
   >
     {project.title}
   </a>
-  <a className="text-gray-200" href={project.link}> - Link</a>
-</h6>
+<a
+  href={project.link}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-gray-200 hover:text-purple-400"
+>
+  {" "} - Link
+</a></h6>
 
               <p className="text-sm text-neutral-400 mb-4 leading-relaxed">
                 {project.description}
