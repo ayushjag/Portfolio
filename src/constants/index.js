@@ -57,7 +57,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-  title: "Balodi Fitness Gym Website",
+  title: "Fitness Gym Website",
   image: project10,
   description:
     "A modern and responsive fitness website built with Next.js, TypeScript, and Tailwind CSS. Features fitness programs, membership plans, trainer showcases, member testimonials, blog articles, FAQs, and contact sections. Designed to increase member engagement and gym registrations through a clean, conversion-focused user experience.",
